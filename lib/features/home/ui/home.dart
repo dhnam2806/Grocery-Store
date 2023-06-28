@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
                   title: Text('Grocery App'),
                   actions: [
                     IconButton(
-                      icon: Icon(Icons.favorite_border),
+                      icon: Icon(Icons.bookmark_border_outlined),
                       onPressed: () {
                         homeBloc.add(HomeWishlistButtonNavigateEvent());
                       },

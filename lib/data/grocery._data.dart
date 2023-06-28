@@ -6,7 +6,7 @@ class GroceryData {
       'description': 'Fresh bananas from Ecuador',
       'price': 0.49,
       'imageUrl':
-          'https://cdn.shopify.com/s/files/1/0258/4307/3103/products/asset_2_800x.jpg?v=1571839043',
+          'https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=675%2Cq=85%2Cwidth=1200/wp-content/uploads/banana-day1-scaled.jpg',
     },
     {
       'id': '2',
